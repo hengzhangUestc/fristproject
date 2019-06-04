@@ -1,0 +1,42 @@
+
+https://www.cnblogs.com/specter45/p/github.html   参考
+
+
+
+
+文件的提交：
+
+git add -A             #将文件的修改上传到暂存区
+  //  add 后面可以跟文件或者是文件夹
+git commit -m '说明'      #提交到本地仓库
+git push origin master   #推送到GitHub网站上
+
+https://blog.csdn.net/geerniya/article/details/79552247
+
+
+
+删除某个文件或者文件夹
+
+$ git --help                                      # 帮助命令
+
+$ git pull origin master                    # 将远程仓库里面的项目拉下来
+
+$ dir                                         # 查看有哪些文件夹
+
+$ git rm -r --cached target              # 删除target文件夹
+
+$ git commit -m '删除了target'        # 提交,添加操作说明
+
+$ git push -u origin master               # 将本次更改更新到github项目上去
+
+https://blog.csdn.net/wudinaniya/article/details/77508229
+
+
+
+换库的时候要删除连接
+
+git remote rm origin
+
+
+
+
