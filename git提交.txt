@@ -33,9 +33,7 @@ https://blog.csdn.net/wudinaniya/article/details/77508229
 
 
 
-换库的时候要删除连接
-
-git remote rm origin
+换库的时候要删除连接，如果报错   git remote rm origin
 
 
 

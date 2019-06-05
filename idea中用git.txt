@@ -1,0 +1,11 @@
+https://www.cnblogs.com/xiaohu1989/p/4195843.html
+
+
+
+
+https://blog.csdn.net/weixin_38399962/article/details/79712379
+
+
+提交必须要有本地仓库。
+
+从github下载的，就自动生成了一个仓库，可以在参考上面的链接进行提交。
